@@ -10,5 +10,5 @@ plugins/MyLittlePonyKayou/sets/setimages/general/spawned.jpg	dl.dropboxuserconte
 images/zonebackgrounds/MLPTwiZone.jpg	dl.dropboxusercontent.com/scl/fi/orsc5w9ejzecc38ci8ekt/MLPTwiZone.jpg?rlkey=om9hkribuhjvxsj0tsrr6hz95&st=pbi1nevj&dl=0	2140
 images/zonebackgrounds/MLPFlutterZone.jpg	dl.dropboxusercontent.com/scl/fi/8yek2wrxcqflfju6wnu5h/MLPFlutterZone.jpg?rlkey=zmws66nvl6yna2v500sia722e&st=4i0r6n99&dl=0	-31994
 images/backgrounds/MLPMat.jpg	dl.dropboxusercontent.com/scl/fi/1membycmgimtm7vyj0ahg/MLPMat.jpg?rlkey=acdmnm9x4wqgv98gwi3hsoy09&st=0ooc0j96&dl=0	-31440
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
