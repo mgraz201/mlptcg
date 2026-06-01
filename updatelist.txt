@@ -1,10 +1,11 @@
-MyLittlePonyKayou	05-11-26
-plugins/MyLittlePonyKayou/CardImageURLs1.txt	dl.dropboxusercontent.com/scl/fi/x2zs6ytu5ism7nzhj0gea/CardImageURLs.txt?rlkey=vrfmjhibecg1ot1urnnxp408d&e=1&st=7b1lx713&dl=0	4404601
+MyLittlePonyKayou	05-30-26
+plugins/MyLittlePonyKayou/CardImageURLs1.txt	dl.dropboxusercontent.com/scl/fi/x2zs6ytu5ism7nzhj0gea/CardImageURLs.txt?rlkey=vrfmjhibecg1ot1urnnxp408d&e=1&st=7b1lx713&dl=0	4473455
 plugins/MyLittlePonyKayou/plugininfo.txt	dl.dropboxusercontent.com/scl/fi/yyjnknp3cqw7vd8eqk4a0/plugininfo.txt?rlkey=k2y26drkke8hgoso3y1idssdl&st=m6nf9k9w	336071
-plugins/MyLittlePonyKayou/version.txt	dl.dropboxusercontent.com/scl/fi/1p8w6q7ytn6qhcbef96ej/version.txt?rlkey=zbzgyltkjvufo33k32ik2vnax&st=0r327isn&dl=0	30822
+plugins/MyLittlePonyKayou/version.txt	dl.dropboxusercontent.com/scl/fi/1p8w6q7ytn6qhcbef96ej/version.txt?rlkey=zbzgyltkjvufo33k32ik2vnax&st=0r327isn&dl=0	30825
+plugins/MyLittlePonyKayou/uninstall.txt	dl.dropboxusercontent.com/scl/fi/433o1gu6wkptumku4lche/uninstall.txt?rlkey=yp9qi2pcr2dszc0lp2m724jf5&st=r9lspqc0&dl=0	9695
 plugins/MyLittlePonyKayou/sets/carddata-Story.txt	dl.dropboxusercontent.com/scl/fi/veapqosnz9z3zcmnonqur/carddata-Story.txt?rlkey=jstu5sk5f9hlc00f39ly79h8p&st=2o17onx4	581300
 plugins/MyLittlePonyKayou/sets/carddata-Tokens.txt	dl.dropboxusercontent.com/scl/fi/ghkfa35gthjguppjif8mg/carddata-Tokens.txt?rlkey=kf4u0m66xdldf2xokg66fd4b3&st=y3rl8v8g&dl=0	107789
-plugins/MyLittlePonyKayou/sets/carddata-Main.txt	dl.dropboxusercontent.com/scl/fi/jcql5l31pnugan5ojdl5i/carddata-Main.txt?rlkey=ix73lbi2on34k0jlvybqdhar8&st=fhhdnp2j&dl=0	3617418
+plugins/MyLittlePonyKayou/sets/carddata-Main.txt	dl.dropboxusercontent.com/scl/fi/jcql5l31pnugan5ojdl5i/carddata-Main.txt?rlkey=ix73lbi2on34k0jlvybqdhar8&st=fhhdnp2j&dl=0	3650862
 plugins/MyLittlePonyKayou/sets/setimages/general/cardback.jpg	dl.dropboxusercontent.com/scl/fi/g3td1ciqkm0j8fyppzl1m/cardback.jpg?rlkey=9n5cke9xhygp6pnsgyva56bka&st=n4g1mu0r	-57522
 plugins/MyLittlePonyKayou/sets/setimages/general/spawned.jpg	dl.dropboxusercontent.com/scl/fi/g3td1ciqkm0j8fyppzl1m/cardback.jpg?rlkey=9n5cke9xhygp6pnsgyva56bka&st=dzysnurt&dl=0	-57522
 plugins/MyLittlePonyKayou/decks/Twilight_Sparkle_Starter.dek	dl.dropboxusercontent.com/scl/fi/rjw1toij0wjourpd5uwfd/Twilight_Sparkle_Starter.dek?rlkey=2qwo8baclp1iycbu474zqs6h4&st=nz2ae1kd&dl=0	445555
@@ -16,5 +17,5 @@ plugins/MyLittlePonyKayou/decks/Rarity_Starter.dek	dl.dropboxusercontent.com/scl
 images/zonebackgrounds/MLPTwiZone.jpg	dl.dropboxusercontent.com/scl/fi/orsc5w9ejzecc38ci8ekt/MLPTwiZone.jpg?rlkey=om9hkribuhjvxsj0tsrr6hz95&st=pbi1nevj&dl=0	2140
 images/zonebackgrounds/MLPFlutterZone.jpg	dl.dropboxusercontent.com/scl/fi/8yek2wrxcqflfju6wnu5h/MLPFlutterZone.jpg?rlkey=zmws66nvl6yna2v500sia722e&st=4i0r6n99&dl=0	-31994
 images/backgrounds/MLPMat.jpg	dl.dropboxusercontent.com/scl/fi/1membycmgimtm7vyj0ahg/MLPMat.jpg?rlkey=acdmnm9x4wqgv98gwi3hsoy09&st=0ooc0j96&dl=0	-31440
-CardURLFiles:
+CardImageURLs:
 CardImageURLs1.txt
